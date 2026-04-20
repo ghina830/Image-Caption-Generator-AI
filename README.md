@@ -1,6 +1,6 @@
 # Image-Caption-Generator-(AI & NLP) 
 Automated image captioning system using InceptionV3 for feature extraction and LSTM for sequence generation on the Flickr8K dataset
-# 🖼️ Image Caption Generator 
+# 🖼️ Image Caption Generator
 
 ## 📝 Project Overview
 This project builds an automated **Image Caption Generator** that translates visual content into descriptive natural language sentences. It utilizes a combination of **Convolutional Neural Networks (CNN)** for image understanding and **Recurrent Neural Networks (RNN)** for language modeling.
